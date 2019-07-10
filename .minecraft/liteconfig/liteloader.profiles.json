@@ -1,0 +1,9 @@
+{
+  "mods": {
+    "...Mc你的游戏": {
+      "baubles-1.7.10-1.0.1.10.jar": true,
+      "mc你的游戏": true,
+      "voxelmap": true
+    }
+  }
+}

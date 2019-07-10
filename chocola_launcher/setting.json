@@ -1,0 +1,110 @@
+﻿{
+    "mccl_version": "1.3.0.1-release",
+    "user_type": "offline",
+    "mainframe_title": "MCCL v%mccl_ver%",
+    "game_ver": "...Mcndyx",
+    "ygg_account": "",
+    "customygg_account": "",
+    "offline_name": "",
+    "offline_name_regex": "",
+    "offline_name_mismatch_hint": "",
+    "java_version": "",
+    "custom_version": "",
+    "background_img_folder": "chocola_launcher\\img\\",
+    "mainframe_layout": 1,
+    "java_xmx": -1,
+    "use_javaexe": false,
+    "close_after_launch": false,
+    "mc_version_separate": false,
+    "bmclapi": true,
+    "dl_verify_sha1": true,
+    "dont_check_assets": false,
+    "output_game_log": false,
+    "show_update_info": true,
+    "enable_offline": true,
+    "enable_yggdrasil": true,
+    "custom_ygg_auth": {
+        "enable": false,
+        "ui_text": "",
+        "register_url": "",
+        "authserver_url": "",
+        "jvm_arg": "",
+        "mc_arg": ""
+    },
+    "game_window_size": {
+        "custom": false,
+        "full_screen": false,
+        "w": 0,
+        "h": 0,
+        "custom_w": 854,
+        "custom_h": 480
+    },
+    "motd": {
+        "enable": false,
+        "colored_string": false,
+        "address": ""
+    },
+    "manual_java": {
+        "enable": false,
+        "path": "",
+        "arch": 0
+    },
+    "custom_game_arg": {
+        "enable": false,
+        "java_addition_arg_head": "",
+        "java_addition_arg_tail": "",
+        "mc_addition_arg_head": "",
+        "mc_addition_arg_tail": ""
+    },
+    "theme": {
+        "use_custom_color": false,
+        "color_follow_bg": false,
+        "use_system_animation": false,
+        "color_argb": 4280838328,
+        "color": {
+            "h": 0.0,
+            "s": 0.0,
+            "l": 0.0
+        },
+        "custom_color": {
+            "h": 213.3333282470703,
+            "s": 0.6428571343421936,
+            "l": 0.43921568989753725
+        },
+        "font": "微软雅黑"
+    },
+    "skin": {
+        "local_skin_path": "",
+        "local_cape_path": "",
+        "upload_skin_path": "",
+        "selected_source": "",
+        "selected_player_name": "",
+        "pose": 1,
+        "show_bg": true,
+        "show_cape": true,
+        "cam_rotating": true,
+        "sources": [
+            {
+                "ui_text": "SkinMe",
+                "root": "http://www.skinme.cc/uniskin/",
+                "api": "UniSkinAPI"
+            },
+            {
+                "ui_text": "BlessingSkin",
+                "root": "https://skin.prinzeugen.net/csl/",
+                "api": "CustomSkinAPI"
+            }
+        ]
+    },
+    "dont_show_tip": {
+        "java_ver_low": false,
+        "no_64java": false,
+        "java32_xmx_warning": false
+    },
+    "update": {
+        "version": "1.3.0.1",
+        "time": -1,
+        "last_check_time": -1
+    },
+    "game_ver_setting_map": []
+}

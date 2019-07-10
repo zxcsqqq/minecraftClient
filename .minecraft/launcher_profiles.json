@@ -1,0 +1,34 @@
+{
+	"profiles": {
+		"(Default)": {
+			"name": "(MClauncher)"
+		},
+		"..Mcndyx": {
+			"name": "..Mcndyx",
+			"lastVersionId": "1.7.10-LiteLoader1.7.10",
+			"useHopperCrashService": "false",
+			"javaArgs": "-Xmx1G"
+		},
+		"MClauncher": {
+			"name": "MClauncher"
+		},
+		"Forge": {
+			"name": "Forge",
+			"lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+		},
+		"LiteLoader 1.7.10": {
+			"name": "LiteLoader 1.7.10",
+			"lastVersionId": "1.7.10-LiteLoader1.7.10",
+			"useHopperCrashService": "false",
+			"javaArgs": "-Xmx1G"
+		},
+		"LiteLoader 1.7.10 with ..Mcndyx": {
+			"name": "LiteLoader 1.7.10 with ..Mcndyx",
+			"lastVersionId": "1.7.10-LiteLoader1.7.10-..Mcndyx",
+			"useHopperCrashService": "false",
+			"javaArgs": "-Xmx1G"
+		}
+	},
+	"selectedProfile": "(Default)",
+	"clientToken": "88888888-8888-8888-8888-888888888888"
+}

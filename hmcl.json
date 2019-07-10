@@ -1,0 +1,29 @@
+{
+  "username": "",
+  "clientToken": "",
+  "enableShadow": true,
+  "theme": 0,
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "name": "Default",
+      "selectedMinecraftVersion": "...Mc你的游戏",
+      "minecraftArgs": "",
+      "width": "1080",
+      "height": "600",
+      "gameDir": ".\\.minecraft",
+      "javaDir": "",
+      "precalledCommand": "",
+      "serverIp": "",
+      "java": "",
+      "fullscreen": false,
+      "debug": false,
+      "noJVMArgs": false,
+      "canceledWrapper": false,
+      "launcherVisibility": 0,
+      "gameDirType": 0
+    }
+  },
+  "yggdrasil": {}
+}
