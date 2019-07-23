@@ -100,12 +100,6 @@ key_ttmisc.toggleArmor:22
 key_keys.armourersworkshop.equipmentWardrobe:25
 key_keys.armourersworkshop.undo:44
 key_key.portaitreposition:52
-key_BetterFps:88
-key_key.minimap.voxelmapmenu:50
-key_key.minimap.waypointhotkey:48
-key_key.minimap.zoom:44
-key_key.minimap.togglefullscreen:45
-key_key.minimap.togglemobs:0
 soundCategory_master:0.5
 soundCategory_music:1.0
 soundCategory_record:1.0

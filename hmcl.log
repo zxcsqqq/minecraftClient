@@ -1,0 +1,48 @@
+[20:33:37] [main/INFO] *** Hello Minecraft! Launcher 2.3.5.7 ***
+[20:33:37] [main/INFO] Initialized settings.
+[20:33:38] [RxNewThreadScheduler/WARN] Failed to get update url.
+java.net.UnknownHostException: huangyuhui.duapp.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.jackhuang.hellominecraft.utils.NetUtils.get(NetUtils.java:69)
+	at org.jackhuang.hellominecraft.utils.NetUtils.get(NetUtils.java:73)
+	at org.jackhuang.hellominecraft.utils.UpdateChecker.lambda$process$43(UpdateChecker.java:49)
+	at org.jackhuang.hellominecraft.utils.UpdateChecker.access$lambda$0(UpdateChecker.java)
+	at org.jackhuang.hellominecraft.utils.UpdateChecker$$Lambda$1.call(Unknown Source)
+	at rx.Observable.lambda$createWithEmptySubscription$4(Observable.java:741)
+	at rx.Observable.access$lambda$1(Observable.java)
+	at rx.Observable$$Lambda$2.call(Unknown Source)
+	at rx.Observable.subscribe(Observable.java:164)
+	at rx.operators.OperationSubscribeOn$SubscribeOn.lambda$call$58(OperationSubscribeOn.java:42)
+	at rx.operators.OperationSubscribeOn$SubscribeOn.access$lambda$0(OperationSubscribeOn.java)
+	at rx.operators.OperationSubscribeOn$SubscribeOn$$Lambda$1.call(Unknown Source)
+	at rx.concurrency.DiscardableAction.call(DiscardableAction.java:46)
+	at rx.concurrency.NewThreadScheduler$$Lambda$1.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[20:33:45] [AWT-EventQueue-0/INFO] Start generating launching command...
+[20:33:45] [Game Launcher/INFO] Logging in...
+[20:33:45] [Game Launcher/INFO] Detecting libraries...
+[20:33:45] [Game Launcher/INFO] Unpacking natives...
+[20:33:46] [Game Launcher/INFO] *** Make shell command ***
+[20:33:46] [Game Launcher/INFO] On making head command.
+[20:33:46] [Game Launcher/INFO] Java Version: 1.8.0_212
+[20:33:46] [Game Launcher/INFO] Java Platform: 64
+[20:33:46] [Game Launcher/INFO] System Platform: 64
+[20:33:46] [Game Launcher/INFO] System Physical Memory: 16252
+[20:33:46] [Game Launcher/INFO] On making launcher args.
+[20:33:46] [Game Launcher/INFO] Starting process
