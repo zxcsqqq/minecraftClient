@@ -53,6 +53,9 @@
       "name": "io.netty:netty-all:4.0.10.Final"
     },
     {
+      "name": "com.google.guava:guava:15.0"
+    },
+    {
       "name": "org.apache.commons:commons-lang3:3.1"
     },
     {
