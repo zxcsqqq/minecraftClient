@@ -1,0 +1,27 @@
+{
+  "minecraftArguments": "--tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker --username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "time": "2014-05-14T18:29:23+01:00",
+  "id": "...Mcndyx",
+  "type": "release",
+  "releaseTime": "2014-05-14T18:29:23+01:00",
+  "jar": "1.7.10",
+  "inheritsFrom": "..Mcndyx",
+  "minimumLauncherVersion": 16,
+  "hidden": false,
+  "libraries": [
+    {
+      "url": "http://dl.liteloader.com/versions/",
+      "name": "com.mumfrey:liteloader:1.7.10"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.11"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:5.0.3"
+    },
+    {
+      "name": "com.google.guava:guava:16.0"
+    }
+  ]
+}
