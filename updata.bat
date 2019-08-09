@@ -1,5 +1,6 @@
 java -cp Launch-Release-1.0.exe com.shuaijie.updata.IndexJar updata.bat Launch-Release-1.0.exe
-D:\GitHUB\Git\cmd\git.exe add .
-D:\GitHUB\Git\cmd\git.exe commit -m "bat脚本更新"
-D:\GitHUB\Git\cmd\git.exe push
+git pull
+git add .
+git commit -m "bat脚本更新"
+git push
 pause
